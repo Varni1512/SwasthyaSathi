@@ -63,11 +63,6 @@ SwasthyaSathi bridges the gap by providing a digital healthcare ecosystem:
 * **Specialty Support:** Supports 15+ medical specialties.
 * **Scalability:** Designed with a modular microservices-ready architecture.
 
-## 🚀 Future Enhancements
-- [ ] **Localization:** Multi-language support for regional dialects.
-- [ ] **Health Trends:** AI-driven long-term health reports and analytics.
-- [ ] **Automated Scheduling:** Calendar integration for follow-up reminders.
-
 ---
 
 ## 🤝 Contribution
