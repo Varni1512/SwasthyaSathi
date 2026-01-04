@@ -58,13 +58,6 @@ SwasthyaSathi bridges the gap by providing a digital healthcare ecosystem:
 * **Deployment:** Vercel
 ---
 
-## 📊 Project Highlights
-* **Robust Testing:** Validated across 100+ symptom scenarios.
-* **Specialty Support:** Supports 15+ medical specialties.
-* **Scalability:** Designed with a modular microservices-ready architecture.
-
----
-
 ## 🤝 Contribution
 Contributions are welcome! 
 1. Fork the Project
