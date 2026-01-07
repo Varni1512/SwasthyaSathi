@@ -54,7 +54,7 @@ SwasthyaSathi bridges the gap by providing a digital healthcare ecosystem:
 * **Frontend:** Next.js, Tailwind CSS, Framer Motion
 * **Voice AI:** Vapi (Orchestration & Voice Pipeline)
 * **Speech-to-Text:** AssemblyAI 
-* **Database & Auth:** Firebase
+* **Database & Auth:** Firebase, Firebase Authentication
 * **Deployment:** Vercel
 ---
 
