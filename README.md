@@ -1,6 +1,6 @@
 # 🩺 SwasthyaSathi – AI-Powered Virtual Healthcare Platform
 
-SwasthyaSathi is an AI-powered healthcare platform designed to make medical consultations accessible, fast, and reliable—especially for users in remote or underserved areas. The platform enables symptom analysis, smart doctor recommendations, virtual consultations, and digital prescriptions, all without the need for physical travel.
+SwasthyaSathi is an AI-powered healthcare platform designed to make medical consultations accessible, fast, and reliable—especially for users in remote or underserved areas. The platform enables symptom analysis, smart doctor recommendations, virtual consultations, and digital prescriptions, all without the need for physical travel. 
 
 ---
 
