@@ -15,6 +15,7 @@ These challenges often result in delayed diagnosis and worsening health conditio
 
 ## 💡 Proposed Solution
 SwasthyaSathi bridges the gap by providing a digital healthcare ecosystem:
+
 * **Natural Language Processing:** Describe symptoms in simple, everyday language.
 * **AI Insights:** Get immediate, AI-assisted health preliminary analysis.
 * **Smart Matching:** Receive personalized doctor recommendations based on symptoms.
