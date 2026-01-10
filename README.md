@@ -6,6 +6,7 @@ SwasthyaSathi is an AI-powered healthcare platform designed to make medical cons
 
 ## 🚩 Problem Statement
 Accessing timely medical care is often hindered by:
+
 * **Geographic Barriers:** Long travel distances to hospitals.
 * **Specialist Scarcity:** Lack of specialist availability in rural/remote areas.
 * **Time Inefficiency:** Significant delays in consultation and treatment.
